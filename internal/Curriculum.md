@@ -1,9 +1,11 @@
 ## Section 1 — The Model
 
+- AI
 - Model
 - Parameters
 - Training
 - Inference
+- Effort
 - Token
 - Next-token prediction
 - Non-determinism
@@ -55,6 +57,8 @@
 
 - Clearing
 - Handoff
+- Primary source
+- Secondary source
 - Handoff artifact
 - Spec
 - Ticket
@@ -80,3 +84,6 @@
 - Vibe coding
 - Design concept
 - Grilling
+- Prototyping
+- DX
+- AX
