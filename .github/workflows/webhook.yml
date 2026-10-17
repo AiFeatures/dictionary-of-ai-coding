@@ -7,6 +7,7 @@ on:
 
 jobs:
   notify:
+    if: github.repository_owner == 'mattpocock'
     runs-on: ubuntu-latest
     steps:
       - name: Send webhook
